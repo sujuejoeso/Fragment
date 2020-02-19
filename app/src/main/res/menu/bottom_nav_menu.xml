@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_home"
+        android:enabled="true"
+        android:icon="@drawable/item_nav_bar_selector_home"
+        android:title="home"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_challenge"
+        android:enabled="true"
+        android:icon="@drawable/item_nav_bar_selector_challenge"
+        android:title="challenge"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_session"
+        android:enabled="true"
+        android:icon="@drawable/item_nav_bar_selector_session"
+        android:title="session"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_award"
+        android:enabled="true"
+        android:icon="@drawable/item_nav_bar_selector_award"
+        android:title="award"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_profile"
+        android:enabled="true"
+        android:icon="@drawable/item_nav_bar_selector_profile"
+        android:title="profile"
+        app:showAsAction="ifRoom" />
+</menu>
+</menu>
